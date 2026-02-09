@@ -111,6 +111,16 @@ body {
     background-color: #c0392b;
 }
 
+.btn-added {
+    background-color: #6c757d;
+    color: white;
+    cursor: text;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+  }
+
 /* Pseudo-elements - Sale badge */
 .product-card::before {
     content: "SALE";
